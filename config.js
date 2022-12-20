@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['94764306687']
+global.ownernomer = "94764306687"
+global.premium = ['94764306687']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'Rivishan'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -59,15 +59,15 @@ global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
+global.mygit = 'https://github.com/RiviMAX'
+global.myyt = 'https://youtube.com/@SLDeepRemix'
+global.myytv = 'https://youtube.com/watch?v=Do4Gt3uwewU'
+global.mygc = "https://chat.whatsapp.com/CBLbC0p5WcS0GSObl9R3iz"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = '𝑹𝒊𝒗𝒊𝒔𝒉𝒂𝒏 𝑴𝑨𝑿'
+global.akulaku = 'Bot By Rivishan'
+global.ytname = 'SL Deep Remix' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
